@@ -1,6 +1,6 @@
 # The Cutting Edge School YT report 
 
-I created an analytics dashboard for Ansh Mehra's youtube channel in PowerBI. Below is a breakdown of how I got the data, cleaned the data and finally what insights I got from it.
+I created an analytics dashboard for Ansh Mehra's youtube channel in PowerBI. Below is a breakdown of how I got the data and cleaned the data 
 
 # How I got the data
 
@@ -55,7 +55,7 @@ To tackle this I applied the following formulas
     ),
     [Distinct Views])
 
-Here the summarize function creates a new table "Distinct Views" which has attributes id and max of view count. Hence now for every id there is only one view count.
+Here the summarize function creates a new table "Distinct Views" which has column max of view count. Hence now for every id there is only one view count.
 After making the new table we can easily use the sumx function.
 
 The same formula was followed for like and comment count
