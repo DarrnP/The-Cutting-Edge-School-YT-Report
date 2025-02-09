@@ -1,5 +1,7 @@
 # The Cutting Edge School YT report 
 
+# Unguided project
+
 ![Image](https://github.com/user-attachments/assets/01044345-7e1e-470f-bc46-54c598a9edae)
 # 
 
