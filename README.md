@@ -2,7 +2,7 @@
 
 # Unguided project
 
-![Image](https://github.com/user-attachments/assets/01044345-7e1e-470f-bc46-54c598a9edae)
+![Image](https://github.com/user-attachments/assets/7e88f043-9eca-4ee9-8a2f-646c5515414b)
 # 
 
 I created an analytics dashboard for Ansh Mehra's youtube channel in PowerBI. Below is a breakdown of how I got the data and cleaned the data 
