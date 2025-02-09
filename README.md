@@ -1,5 +1,8 @@
 # The Cutting Edge School YT report 
 
+![Image](https://github.com/user-attachments/assets/01044345-7e1e-470f-bc46-54c598a9edae)
+# 
+
 I created an analytics dashboard for Ansh Mehra's youtube channel in PowerBI. Below is a breakdown of how I got the data and cleaned the data 
 
 # How I got the data
